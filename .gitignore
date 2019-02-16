@@ -1,4 +1,5 @@
 *.html
 *.css
-css dinner/favicon.png
 *.psd
+css dinner/
+weather forecast/
